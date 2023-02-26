@@ -19,3 +19,7 @@ create an endpoint which allows to fetch all created tweets in database
 
 ### Delete Tweet API: 
 create an endpoint which allows to delete specific tweets by its id (only owner of the tweet can delete it )
+
+## OUTPUT:
+
+SIGNUP:
